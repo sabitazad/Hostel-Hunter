@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+localhost	TRUE	/wordpress/	FALSE	1999999999	woocommerce_items_in_cart	1
+localhost	TRUE	/wordpress/	FALSE	1999999999	wp_woocommerce_session_bbfa5b726c6b7a9cf3cda9370be3ee91	t_d2a09e9614e3f005f1cfc710c52c9a%7C%7C1696104327%7C%7C1696100727%7C%7Cd2d9c4c3d0d4466a901e1ef5b242148c
+localhost	TRUE	/wordpress/	FALSE	1999999999	woocommerce_cart_hash	fac8734ecf23a27cc2dfa3df9cf78ec3
+

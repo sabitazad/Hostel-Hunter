@@ -1,0 +1,34 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 29 Sep 2023 02:02:30 at http://localhost/wordpress/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://localhost/wordpress/ -O1 "C:\My Web Sites\copy of hostel hunter" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+02:05:40	Error: 	"Not Found" (404) at link localhost/wordpress/wp-content/plugins/kenta-blocks/assets/fontawesome/webfonts/fa-brands-400.ttf (from localhost/wordpress/wp-content/plugins/kenta-blocks/assets/fontawesome/css/all.min.css?ver=1.3.6)
+02:05:41	Error: 	"Not Found" (404) at link localhost/wordpress/wp-content/plugins/kenta-blocks/assets/fontawesome/webfonts/fa-regular-400.ttf (from localhost/wordpress/wp-content/plugins/kenta-blocks/assets/fontawesome/css/all.min.css?ver=1.3.6)
+02:05:43	Error: 	"Not Found" (404) at link localhost/wordpress/wp-content/plugins/kenta-blocks/assets/fontawesome/webfonts/fa-solid-900.ttf (from localhost/wordpress/wp-content/plugins/kenta-blocks/assets/fontawesome/css/all.min.css?ver=1.3.6)
+02:05:51	Error: 	"Not Found" (404) at link localhost/wordpress/wp-content/plugins/kenta-blocks/assets/fontawesome/webfonts/fa-v4compatibility.ttf (from localhost/wordpress/wp-content/plugins/kenta-blocks/assets/fontawesome/css/all.min.css?ver=1.3.6)
+02:05:52	Error: 	"Not Found" (404) at link localhost/wordpress/wp-content/themes/kenta/lotta-framework/dist/vendor/fontawesome/webfonts/fa-brands-400.ttf (from localhost/wordpress/wp-content/themes/kenta/lotta-framework/dist/vendor/fontawesome/css/all.min.css?ver=2.0.10)
+02:05:52	Error: 	"Not Found" (404) at link localhost/wordpress/wp-content/themes/kenta/lotta-framework/dist/vendor/fontawesome/webfonts/fa-regular-400.ttf (from localhost/wordpress/wp-content/themes/kenta/lotta-framework/dist/vendor/fontawesome/css/all.min.css?ver=2.0.10)
+02:05:52	Error: 	"Not Found" (404) at link localhost/wordpress/wp-content/themes/kenta/lotta-framework/dist/vendor/fontawesome/webfonts/fa-solid-900.ttf (from localhost/wordpress/wp-content/themes/kenta/lotta-framework/dist/vendor/fontawesome/css/all.min.css?ver=2.0.10)
+02:05:52	Error: 	"Not Found" (404) at link localhost/wordpress/wp-content/themes/kenta/lotta-framework/dist/vendor/fontawesome/webfonts/fa-v4compatibility.ttf (from localhost/wordpress/wp-content/themes/kenta/lotta-framework/dist/vendor/fontawesome/css/all.min.css?ver=2.0.10)
+02:05:52	Warning: 	Moved Permanently for localhost/wordpress/?p=20
+02:05:52	Warning: 	File has moved from localhost/wordpress/?p=20 to http://localhost/wordpress/about/
+02:05:52	Warning: 	Moved Permanently for localhost/wordpress/?p=21
+02:05:52	Warning: 	File has moved from localhost/wordpress/?p=21 to http://localhost/wordpress/contact/
+02:05:52	Warning: 	Moved Permanently for localhost/wordpress/?p=169
+02:05:52	Warning: 	File has moved from localhost/wordpress/?p=169 to http://localhost/wordpress/privacy-policy-2/
+02:06:50	Warning: 	Moved Permanently for localhost/wordpress/?p=297
+02:06:50	Warning: 	File has moved from localhost/wordpress/?p=297 to http://localhost/wordpress/product/agrawal-boys-hostel/
+02:07:07	Error: 	"Not Found" (404) at link localhost/wordpress/?page_id=57 (from localhost/wordpress/shop/?add-to-cart=297)
+02:07:07	Warning: 	Moved Permanently for localhost/wordpress/?p=295
+02:07:07	Warning: 	File has moved from localhost/wordpress/?p=295 to http://localhost/wordpress/product/excellent-super-hostel/
+02:07:07	Warning: 	Moved Permanently for localhost/wordpress/?p=294
+02:07:07	Warning: 	File has moved from localhost/wordpress/?p=294 to http://localhost/wordpress/product/shantinir-hostel/
+02:07:12	Warning: 	Moved Permanently for localhost/wordpress/?p=240
+02:07:12	Warning: 	File has moved from localhost/wordpress/?p=240 to http://localhost/wordpress/product/students-garden-hostel/
+
+HTTrack Website Copier/3.49-2 mirror complete in 4 minutes 58 seconds : 157 links scanned, 140 files written (7288147 bytes overall) [7856945 bytes received at 26365 bytes/sec], 10778 bytes transferred using HTTP compression in 1 files, ratio 38%, 2.8 requests per connection
+(9 errors, 14 warnings, 0 messages)
